@@ -55,7 +55,7 @@ RULES:
 - Format numbers to 2 decimal places. On tool error, explain and retry.
 """
 
-MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
+MODEL = "openai/gpt-oss-120b"
 
 
 def get_llm() -> ChatGroq:

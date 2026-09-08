@@ -7,3 +7,4 @@ datawizard-env/
 venv/
 *.egg-info/
 .DS_Store
+eval/spider_data/

@@ -1,0 +1,9 @@
+Model: openai/gpt-oss-120b
+Sample size: 140 (stratified, 35/bucket, seed=42)
+Overall execution accuracy: 108/140 = 77.143%
+
+By difficulty:
+  easy    :  33/ 35 = 94.286%
+  medium  :  27/ 35 = 77.143%
+  hard    :  24/ 35 = 68.571%
+  extra   :  24/ 35 = 68.571%
