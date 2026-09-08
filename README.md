@@ -2,7 +2,7 @@
 
 A conversational data science assistant built with Streamlit and LangGraph. Ask questions in plain English — the agent decides which tools to call, runs them, and renders results as interactive tables, charts, and code snippets.
 
-**Live demo:** [Deployed on Streamlit Community Cloud]
+**Live demo:** https://datawizard-multiagent.streamlit.app/
 
 ---
 
